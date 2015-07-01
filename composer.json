@@ -1,5 +1,5 @@
 {
-    "name": "labzone/git-bundle",
+    "name": "labzone/gitbundle",
     "type": "symfony-bundle",
     "description": "Symfony GitBundle",
     "keywords": ["Git", "Bundle", "Symfony"],
