@@ -16,9 +16,9 @@
         "kzykhys/git": "dev-master"
     },
     "autoload": {
-        "psr-0": { "LabZone\\Bundle\\GitBundle": "" }
+        "psr-0": { "LabZone\\GitBundle": "" }
     },
-    "target-dir": "LabZone/Bundle/GitBundle",
+    "target-dir": "LabZone/GitBundle",
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
